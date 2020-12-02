@@ -14,7 +14,7 @@ tags:
 - gnome
 ---
 
-I got introduced to open-source through a tech community called Google Developers Group Buea. This is where I learnt about the Outreachy program amongst others. Successful applicants of the program gave talks about the projects they worked on and how amazing the experience was. They were soo skilled in coding amongst others and spoke with a lot of confidence. I saw several community members grow technically in phenomenal ways during and after the program. Even those who only ended at the contribution phase still had great growth stories to tell. One person said, "Outreachy is a great mental exercise even if you don't make it to the finish line. The competitive atmosphere pushes you to accomplish things you can't do under normal circumstances." It was at this point that I made up my mind to look into the program.  
+I got introduced to open-source through a tech community called Google Developers Group Buea. This is where I learnt about the Outreachy program. Successful applicants of the program gave talks about the projects they worked on and how amazing the experience was. They were soo skilled in coding and spoke with a lot of confidence. I saw several other community members grow technically in phenomenal ways during and after the program. Even those who only ended at the contribution phase still had great growth stories to tell. One person said, "Outreachy is a great mental exercise even if you don't make it to the finish line. The competitive atmosphere pushes you to accomplish things you can't do under normal circumstances." It was at this point that I made up my mind to look into the program.  
 
 
 Let's look into what this program is all about  
