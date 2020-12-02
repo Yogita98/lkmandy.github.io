@@ -1,0 +1,55 @@
+# Build settings
+permalink: /blog/:year/:title/
+markdown: kramdown
+highlighter: pygments
+plugins: [jekyll-paginate-v2]
+
+pagination:
+  enabled: true
+  per_page: 3
+  permalink: "/page/:num/"
+
+comments: true
+
+source: source
+destination: _site
+sass:
+  sass_dir: _sass
+  style: compressed # expanded
+
+# SEO settings
+title: lkmandy
+description: "An Outreachy interns journey"
+keywords: "Outreachy, gnome, code, developer, opensource, blog"
+# url: http://nandomoreira.me
+baseurl: "/lkmandy.github.io"
+
+google_analytics: UA-52446115-1
+repo: http://github.com/lkmandy/lkmandy.github.io
+disqus_shortname: "lkmandy"
+disqus_site_shortname: "lkmandy"
+
+# Author settings
+author:
+  name: Amanda Shafack
+  job: Software Engineer
+  bio: "I'm highly passionate about building tech communities"
+  thumb: /images/mandy.jpg
+  email: shafack.likhene@gmail.com
+  # url: https://nandomoreira.me/
+  github: https://github.com/lkmandy
+  twitter: https://twitter.com/lkmandy
+  facebook: https://facebook.com/lkmandy1
+  linkedin: https://linkedin.com/in/lkmandy
+
+# navbar pages
+navbar:
+  - slug: about
+    title: About
+  - slug: blog
+    title: Blog
+  # - slug: contact
+  #   title: Contact
+  
+
+exclude: ["config.rb", "src", "Gemfile", "Gemfile.lock", "package.json","README.md", "Rakefile"]
