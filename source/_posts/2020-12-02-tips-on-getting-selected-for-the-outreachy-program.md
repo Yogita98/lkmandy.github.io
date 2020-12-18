@@ -2,7 +2,7 @@
 layout: post
 title: "Tips on Getting Selected for the Outreachy Program"
 # permalink: tips-on-getting-selected-for-the-outreachy-program
-date: 2020-12-02 01:15:07
+date: 2020-12-02 01:15:07 +1:00
 comments: true
 image: https://www.outreachy.org/static/outreachy-logo-open-graph-1200x1200.bda3dc7997df.png
 description: "Tips on Getting Selected for the Outreachy Program"
